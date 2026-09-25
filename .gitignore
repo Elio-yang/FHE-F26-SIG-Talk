@@ -1,0 +1,7 @@
+*.sty
+*synctex.gz
+*tex
+fig/
+makefile
+tmp/
+.DS_Store
